@@ -19,6 +19,7 @@
   transform: skewX(-14deg);
   border-radius: 10px;
   box-sizing: border-box;
+  transition: transform .1s, background-color .6s;
 }
 .door:hover {
   background-color: orange;
