@@ -4,4 +4,5 @@
 - 기초적인 HTML, CSS 실습
 
 ### 예제
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/90208100/212475501-e0f617e4-757d-4f40-ab93-0c1dcefe55ed.png)
